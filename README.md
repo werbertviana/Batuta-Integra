@@ -27,7 +27,7 @@
 2. JavaScript
 3. CSS
 
-# Vídeo demonstrativo da aplicação
+# 🎥 Vídeo demonstrativo do BATUTA
 
 https://github.com/user-attachments/assets/ab403670-25ae-4e81-91ce-546ab23c0e85
 
