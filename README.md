@@ -29,7 +29,7 @@
 
 # Vídeo demonstrativo da aplicação
 
-https://raw.githubusercontent.com/werbertviana/batuta-integra/main/Video.mp4
+https://github.com/user-attachments/assets/ab403670-25ae-4e81-91ce-546ab23c0e85
 
 
 
